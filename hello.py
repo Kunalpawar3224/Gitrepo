@@ -1,4 +1,4 @@
 print("hello I am Sachin/n
-      You have to fight for your dreams")
+       I will focus on process rather than result")
       
        

@@ -1,4 +1,4 @@
 print("hello I am Sachin/n
-       I will focus on process rather than result")
+       I will focus on process rather than result, because result is the ")
       
        
